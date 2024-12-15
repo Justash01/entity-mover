@@ -1,4 +1,4 @@
-# Enity Mover Add-on (BP)
+# Entity Mover Add-on (BP)
 
 # Compiling
 
