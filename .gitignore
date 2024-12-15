@@ -1,0 +1,4 @@
+/build
+/.regolith
+node_modules/
+resource_pack/

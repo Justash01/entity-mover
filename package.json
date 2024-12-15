@@ -1,0 +1,6 @@
+{
+  "name": "entity-mover",
+  "dependencies": {
+    "@minecraft/server": "^1.16.0"
+  }
+}

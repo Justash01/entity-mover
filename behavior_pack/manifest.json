@@ -1,0 +1,38 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "aad167be-519a-476c-b802-ddf30193d479",
+    "min_engine_version": [ 1, 21, 50 ],
+    "version": [ 1, 0, 0 ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "870e12ca-6b31-4c72-9551-68a29f5f4cb6",
+      "version": [ 1, 0, 0 ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "77967daf-379b-4abf-8991-9c95ca1ef20b",
+      "entry": "scripts/main.js",
+      "version": [ 1, 0, 0 ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.16.0"
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "JustAsh01"
+    ],
+    "license": "MIT",
+    "url": "https://github.com/Justash01/entity-mover",
+    "product_type": "addon"
+  }
+}
